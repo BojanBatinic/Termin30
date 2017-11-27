@@ -30,7 +30,7 @@
             android:name=".activities.ListActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:icon="@mipmap/ic_launcher"
-            android:label="Actors">
+            android:label="Glumci Legende SFRJ i sire">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
